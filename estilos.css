@@ -26,11 +26,20 @@ body{
 }
 
 .img1{
-    height: 300px;
+    height: 193px;
     width: 300px;
-    background-image: url("paisaje.jpg");
+    background-image: url("imagen.2.jpg");
+    background-repeat: no-repeat;
+    float: left;
 }
-    
+.img2{
+    height: 193px;
+    width: 300px;
+    background-image: url("imagen.4.jpg..webp");
+    background-repeat: no-repeat;
+    float: right;
+}
+   
     
 
 
