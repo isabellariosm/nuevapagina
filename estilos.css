@@ -39,7 +39,22 @@ body{
     background-repeat: no-repeat;
     float: right;
 }
-   
+.img3{
+    height: 300px;
+    width: 300px;
+    background-image: url("imagen.sociales.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img4{
+    height: 300px;
+    width: 300px;
+    background-image: url("imagen.ingles.jpg" );
+    background-repeat: no-repeat;
+    float:left;
+
+}
+    
     
 
 
